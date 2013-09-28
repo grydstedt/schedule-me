@@ -1,0 +1,28 @@
+{
+  "author": "Gustav Rydstedt <gustav.rydstedt@gmail.com> (https://twitter.com/swedishgoose)",
+  "name": "schedule-me",
+  "description": "Super simple scheduler with cron, timeout, and date support.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/rydstedt/schedule-me",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grydstedt/schedule-me.git"
+  },
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "dependencies": {
+    "cron": "~1.0.1"
+  },
+  "devDependencies": {
+    "codebux": "~0.1.2",
+    "jshint-tap-simple": "~1.0.2",
+    "tap": "~0.3.1"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": ">=0.8"
+  }
+}
