@@ -14,7 +14,9 @@
     "test": "make test"
   },
   "dependencies": {
-    "cron": "~1.0.1"
+    "cron": "~1.0.1",
+    "underscore": "~1.5.2",
+    "node-uuid": "~1.4.1"
   },
   "devDependencies": {
     "codebux": "~0.1.2",
