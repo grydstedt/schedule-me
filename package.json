@@ -2,7 +2,7 @@
   "author": "Gustav Rydstedt <gustav.rydstedt@gmail.com> (https://twitter.com/swedishgoose)",
   "name": "schedule-me",
   "description": "Super simple scheduler with cron, timeout, and date support.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/rydstedt/schedule-me",
   "license": "MIT",
   "repository": {
